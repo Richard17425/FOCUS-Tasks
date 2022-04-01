@@ -14,6 +14,8 @@ mdl_puma560
 
 `p560.plot(qz)`
 
+![.../pictures/Puma560p1.png]
+
 位姿转换
 
 `p560.base=transl(0,0,3)*trotx(pi)
