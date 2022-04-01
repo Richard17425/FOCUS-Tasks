@@ -14,7 +14,7 @@ mdl_puma560
 
 `p560.plot(qz)`
 
-![.../pictures/Puma560p1.png]
+![](.../pictures/Puma560p1.png)
 
 位姿转换
 
