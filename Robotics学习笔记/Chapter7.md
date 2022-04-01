@@ -16,11 +16,6 @@ mdl_puma560
 
 ![puma590](pictures/Puma560p1.png)
 
-![puma](https://github.com/Richard17425/FOCUS-Tasks/blob/main/Robotics%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/pictures/Puma560p1.png)
-
-![1] (../assets/pictures/Puma560p1.png)
-
-![2] (../main/Robotics%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/pictures/Puma560p1.png)
 
 位姿转换
 
