@@ -142,7 +142,10 @@ target_link_libraries(velocity_publisher ${catkin_LIBRARIES})
 预先在.bashrc中添加好了则不用每次都设置了
 
 4. 运行海龟仿真和功能包程序
-
-`roscore
+```
+roscore
 rosrun turtlesim turtlesim_node
-rosrun learning_topic velocity_publisher`
+rosrun learning_topic velocity_publisher
+```
+
+![publishresult](./images/turtletopic.png)
